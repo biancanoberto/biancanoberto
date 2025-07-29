@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biancanoberto
 - 👀 I’m interested in interning to learn more about my course and its field.
-- 🌱 I’m currently in the second semester of Computer Science.
+- 🌱 I’m currently in the quarter semester of Computer Science.
 - - 💞️ I’m looking to collaborate on software development projects and any opportunity to expand my knowledge in computer science.
 - 📫 How to reach me: Instagram @/nobertobibi
 - 😄 Pronouns: she/her
